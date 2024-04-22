@@ -82,7 +82,7 @@ Hola! soy Gaston Emilio Vergagni y tengo 27 años, a continuación dejo un poco 
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Gastonvgf&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Gastonvg&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
