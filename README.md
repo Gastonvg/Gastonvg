@@ -66,7 +66,7 @@ Hola! soy Gaston Emilio Vergagni y tengo 27 años, a continuación dejo un poco 
 
 ## Connect with me  
 <div align="center">
-<a href="https://www.linkedin.com/in/gaston-vergagni-a87b3b29b/" target="_blank">
+<a href="https://github.com/Gastonvg" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://dev.to/ejoelf" target="_blank">
